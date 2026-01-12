@@ -1,0 +1,11 @@
+order_id,order_date,product_id,quantity_sold,sales_amount,product_name,category_id,unit_price,category_name,stock_quantity,reorder_level,profit,profit_margin,inventory_status,order_month
+1,2025-01-01,101,2,1800.0,Laptop,1,900.0,Electronics,15,10,540.0,30.0,OK,2025-01
+2,2025-01-03,102,3,1800.0,Smartphone,1,600.0,Electronics,8,10,540.0,30.0,Low Stock,2025-01
+3,2025-01-05,103,5,125.0,T-Shirt,2,25.0,Clothing,50,20,37.5,30.0,OK,2025-01
+4,2025-01-07,104,2,120.0,Jeans,2,60.0,Clothing,30,15,36.0,30.0,OK,2025-01
+5,2025-01-10,105,4,160.0,Rice Bag,3,40.0,Grocery,5,10,48.0,30.0,Low Stock,2025-01
+6,2025-01-12,106,6,90.0,Cooking Oil,3,15.0,Grocery,40,15,27.0,30.0,OK,2025-01
+7,2025-01-15,107,1,120.0,Blender,4,120.0,Home & Kitchen,6,10,36.0,30.0,Low Stock,2025-01
+8,2025-01-18,108,2,300.0,Coffee Maker,4,150.0,Home & Kitchen,12,8,90.0,30.0,OK,2025-01
+9,2025-02-02,101,1,900.0,Laptop,1,900.0,Electronics,15,10,270.0,30.0,OK,2025-02
+10,2025-02-05,102,2,1200.0,Smartphone,1,600.0,Electronics,8,10,360.0,30.0,Low Stock,2025-02
